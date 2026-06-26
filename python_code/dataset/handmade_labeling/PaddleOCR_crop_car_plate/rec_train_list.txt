@@ -1,0 +1,12 @@
+plate_00001_frame_204_score_169.4_conf_0.78.jpg	23라2518
+plate_00001_frame_64_score_163.9_conf_0.73.jpg	135부7686
+plate_00002_frame_356_score_168.7_conf_0.75.jpg	51부4387
+plate_00004_frame_238_score_167.9_conf_0.72.jpg	7335
+plate_00005_frame_252_score_167.6_conf_0.71.jpg	51부4387
+plate_00007_frame_230_score_166.8_conf_0.67.jpg	02소7335
+plate_00008_frame_236_score_166.7_conf_0.74.jpg	4387
+plate_00058_frame_760_score_128.9_conf_0.55.jpg	7865
+plate_00062_frame_266_score_150.1_conf_0.66.jpg	02소7335
+plate_00063_frame_364_score_150.0_conf_0.77.jpg	51부4387
+plate_00067_frame_206_score_121.0_conf_0.42.jpg	3439
+plate_00085_frame_714_score_69.9_conf_0.38.jpg	7865

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_integration</folder>
+	<filename>plate_00008_frame_236_score_166.7_conf_0.74.jpg</filename>
+	<path>C:\Users\young\Desktop\capdi_datas\real_data\data_integration\plate_00008_frame_236_score_166.7_conf_0.74.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>87</width>
+		<height>31</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4387</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>10</ymin>
+			<xmax>75</xmax>
+			<ymax>24</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cropped_plates_extracted</folder>
+	<filename>plate_00001_frame_64_score_163.9_conf_0.73.jpg</filename>
+	<path>C:\Users\young\Desktop\capdi_datas\cropped_plates_extracted\plate_00001_frame_64_score_163.9_conf_0.73.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>115</width>
+		<height>34</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>135부7686</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>10</ymin>
+			<xmax>103</xmax>
+			<ymax>29</ymax>
+		</bndbox>
+	</object>
+</annotation>

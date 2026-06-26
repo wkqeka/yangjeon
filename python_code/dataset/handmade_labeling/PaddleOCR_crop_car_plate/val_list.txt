@@ -1,0 +1,4 @@
+plate_00089_frame_748_score_64.7_conf_0.34.jpg	7865
+plate_00090_frame_42_score_64.1_conf_0.45.jpg	3439
+plate_00105_frame_360_score_141.1_conf_0.71.jpg	61부4389
+plate_00108_frame_358_score_140.7_conf_0.73.jpg	61부4389
